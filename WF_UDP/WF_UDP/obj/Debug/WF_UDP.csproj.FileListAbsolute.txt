@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\bin\Debug\WF_UDP.exe.config
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\bin\Debug\WF_UDP.exe
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\bin\Debug\WF_UDP.pdb
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\obj\Debug\WF_UDP.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\obj\Debug\WF_UDP.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\obj\Debug\WF_UDP.Form1.resources
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\obj\Debug\WF_UDP.Properties.Resources.resources
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\obj\Debug\WF_UDP.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\obj\Debug\WF_UDP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\obj\Debug\WF_UDP.exe
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\obj\Debug\WF_UDP.pdb
+C:\Users\HP\Desktop\home\Programming\C#\WF_UDP\WF_UDP\obj\Debug\WF_UDP.Form2.resources
